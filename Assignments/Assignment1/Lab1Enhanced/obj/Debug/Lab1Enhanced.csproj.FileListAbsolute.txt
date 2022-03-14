@@ -1,0 +1,11 @@
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\bin\Debug\Lab1Enhanced.exe.config
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\bin\Debug\Lab1Enhanced.exe
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\bin\Debug\Lab1Enhanced.pdb
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\obj\Debug\Lab1Enhanced.csproj.AssemblyReference.cache
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\obj\Debug\Lab1Enhanced.csproj.SuggestedBindingRedirects.cache
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\obj\Debug\Lab1Enhanced.Form1.resources
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\obj\Debug\Lab1Enhanced.Properties.Resources.resources
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\obj\Debug\Lab1Enhanced.csproj.GenerateResource.cache
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\obj\Debug\Lab1Enhanced.csproj.CoreCompileInputs.cache
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\obj\Debug\Lab1Enhanced.exe
+C:\Users\daria\Documents\study\facultate\anul 2\Semestrul 2\DBMS\Lab\Assignments\Lab1Enhanced\Lab1Enhanced\obj\Debug\Lab1Enhanced.pdb
