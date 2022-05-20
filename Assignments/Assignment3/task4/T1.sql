@@ -1,0 +1,10 @@
+--- update conflict
+--- transaction 1
+
+ALTER DATABASE RailwayCompany SET ALLOW_SNAPSHOT_ISOLATION ON
+
+BEGIN TRAN
+WAITFOR DELAY '00:00:05'
+UPDATE Passenger SET name = 'TEEEEEEEST' WHERE Status = 'adult'
+WAITFOR DELAY '00:00:05'
+COMMIT TRAN
